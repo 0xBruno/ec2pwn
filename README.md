@@ -10,6 +10,7 @@ It is heavily inspired by Axiom from pry0cc. But its only goal is simplifying wo
 ec2pwn's default configuration uses the Kali AMI and a security group with ingress on port 80 from 0.0.0.0/0 and port 22 from provided /24 CIDR block.
 
 ## Usage
+![image](https://user-images.githubusercontent.com/59654121/190963523-df6fad37-14fd-4f51-add9-25776e554489.png)
 
 Setting up: 
 1. Download the AWS CLI and Terraform 
